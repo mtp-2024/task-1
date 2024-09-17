@@ -26,11 +26,12 @@ jobs:
       run: >
         for d in projects/* ; do
             echo "test $d: RUN"
-            # if [ -d "$d/node_modules" ]; then
-            #     echo "$d/node_modules does exist."
-            #     exit 1
-            # fi
-            cd "$d"
+            if [ -d "$d/node_modules" ]; then
+                echo "$d/node_modules does exist."
+                exit 1
+            fi
+            ls -la
+            cd $d
             yarn
             yarn test
             rm -r node_modules
