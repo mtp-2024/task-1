@@ -19,7 +19,7 @@ jobs:
       with:
         node-version: 22
     - name: list directories
-      run: ls -la projects/
+      run: ls -la projects/rin-cast-9
     - name: pwd ->
       run: pwd
     - name: Run all test
@@ -30,7 +30,7 @@ jobs:
                 echo "$d/node_modules does exist."
                 exit 1
             fi
-            cd $d
+            cd "$d"
             yarn
             yarn test
             rm -r node_modules
