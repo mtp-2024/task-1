@@ -5,7 +5,7 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main", "rin-cast-9-debug" ]
   pull_request:
     branches: [ "main" ]
 
@@ -18,6 +18,10 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: 22
+    - name: list directories
+      run: ls -la projects/
+    - name: pwd ->
+      run: pwd
     - name: Run all test
       run: >
         for d in projects/* ; do
