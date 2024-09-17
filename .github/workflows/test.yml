@@ -30,7 +30,8 @@ jobs:
                 echo "$d/node_modules does exist."
                 exit 1
             fi
-            cd ..
+            pwd
+            ls -la
             cd $d
             yarn
             yarn test
