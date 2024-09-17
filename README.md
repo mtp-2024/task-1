@@ -21,6 +21,7 @@
 | ФИО | Аккаунт |
 | :-:	|  ---	|
 | Гаврилин Денис Николаевич | [GavrilinDN](//github.com/gavrilindn) |
+| Абрамов Вадим Валерьевич | [rin-cast-9](https://github.com/rin-cast-9) |
 
 
 <details>
