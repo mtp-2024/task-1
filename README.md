@@ -22,6 +22,7 @@
 | :-:	|  ---	|
 | Гаврилин Денис Николаевич | [GavrilinDN](//github.com/gavrilindn) |
 | Абрамов Вадим Валерьевич | [rin-cast-9](https://github.com/rin-cast-9) |
+| Ковалев Егор Юрьевич | [kovalevegor](https://github.com/kovalevegor) |
 
 
 <details>
