@@ -23,7 +23,7 @@
 | Гаврилин Денис Николаевич | [GavrilinDN](//github.com/gavrilindn) |
 | Абрамов Вадим Валерьевич | [rin-cast-9](https://github.com/rin-cast-9) |
 | Ковалев Егор Юрьевич | [kovalevegor](https://github.com/kovalevegor) |
-| Сивый Дмитрий Эдуардович | [LogicOfGreen](https://github.com/LogicOfGreen) |
+| Сивый Дмитрий Эдуардович | [ LogicOfGreen ](https://github.com/LogicOfGreen) |
 
 <details>
 <summary>Сразу после коммита</summary>
