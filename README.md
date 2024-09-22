@@ -27,7 +27,7 @@
 | Вьюков Ярослав Александрович | [ GiproveR ](https://github.com/GiproveR) |
 | Лебедев Артём Андреевич | [ alebedev223 ](https://github.com/alebedev223) |
 | Туренко Юлия Богдановна | [ idk_sth ](https://github.com/idksth) |
-
+| Касаткина Анастасия Александровна | [k-nst](https://github.com/k-nst) |
 <details>
 <summary>Сразу после коммита</summary>
 	
