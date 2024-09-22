@@ -1,0 +1,16 @@
+{
+  "name": "task_0_techprog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node time.js",
+    "test": "node tests.js"
+  },
+  "author": "Zabrodin V.A.",
+  "license": "ISC",
+  "dependencies": {
+    "luxon": "^3.5.0"
+  },
+  "type": "module"
+}
