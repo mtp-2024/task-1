@@ -28,6 +28,7 @@
 | Лебедев Артём Андреевич | [ alebedev223 ](https://github.com/alebedev223) |
 | Туренко Юлия Богдановна | [ idk_sth ](https://github.com/idksth) |
 | Касаткина Анастасия Александровна | [k-nst](https://github.com/k-nst) |
+| Забродин Вадим Алексеевич | [flickzzaylo](https://github.com/flickzzaylo)|
 <details>
 <summary>Сразу после коммита</summary>
 	
