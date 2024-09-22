@@ -24,8 +24,8 @@
 | Абрамов Вадим Валерьевич | [rin-cast-9](https://github.com/rin-cast-9) |
 | Ковалев Егор Юрьевич | [kovalevegor](https://github.com/kovalevegor) |
 | Сивый Дмитрий Эдуардович | [ LogicOfGreen ](https://github.com/LogicOfGreen) |
+| Вьюков Ярослав Александрович | [ GiproveR ](https://github.com/GiproveR) |
 | Лебедев Артём Андреевич | [ alebedev223 ](https://github.com/alebedev223) |
-
 
 <details>
 <summary>Сразу после коммита</summary>
