@@ -1,0 +1,16 @@
+{
+  "name": "lab0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node task1.js",
+    "test": "node test.js"
+  },
+  "author": "ArtyomLebedev",
+  "license": "ISC",
+  "dependencies": {
+    "git": "^0.1.5"
+  },
+  "type": "module"
+}

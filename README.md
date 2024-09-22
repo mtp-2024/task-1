@@ -25,6 +25,8 @@
 | Ковалев Егор Юрьевич | [kovalevegor](https://github.com/kovalevegor) |
 | Сивый Дмитрий Эдуардович | [ LogicOfGreen ](https://github.com/LogicOfGreen) |
 | Вьюков Ярослав Александрович | [ GiproveR ](https://github.com/GiproveR) |
+| Лебедев Артём Андреевич | [ alebedev223 ](https://github.com/alebedev223) |
+| Туренко Юлия Богдановна | [ idk_sth ](https://github.com/idksth) |
 
 <details>
 <summary>Сразу после коммита</summary>
