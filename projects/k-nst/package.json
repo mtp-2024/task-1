@@ -1,0 +1,13 @@
+{
+  "name": "task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "time.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node time.js"
+  },
+  "author": "Kasatkina A A",
+  "license": "ISC",
+  "type": "module"
+}
