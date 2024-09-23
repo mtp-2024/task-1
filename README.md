@@ -30,6 +30,7 @@
 | Касаткина Анастасия Александровна | [k-nst](https://github.com/k-nst) |
 | Забродин Вадим Алексеевич | [flickzzaylo](https://github.com/flickzzaylo)|
 | Браташ Максим Алексеевич | [Kendorex](https://github.com/Kendorex)|
+| Кожевников Артём Евгеньевич | [ArtemKozhevnikov](https://github.com/ArtemKozhevnikov)|
 <details>
 <summary>Сразу после коммита</summary>
 	
