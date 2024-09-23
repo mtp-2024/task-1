@@ -29,6 +29,7 @@
 | Туренко Юлия Богдановна | [ idk_sth ](https://github.com/idksth) |
 | Касаткина Анастасия Александровна | [k-nst](https://github.com/k-nst) |
 | Забродин Вадим Алексеевич | [flickzzaylo](https://github.com/flickzzaylo)|
+| Браташ Максим Алексеевич | [Kendorex](https://github.com/Kendorex)|
 <details>
 <summary>Сразу после коммита</summary>
 	
