@@ -1,0 +1,13 @@
+{
+  "name": "technology",
+  "version": "1.0.0",
+  "description": "",
+  "main": "newYear.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node newYear.js"
+  },
+  "author": "Tarasov N.A.",
+  "license": "ISC"
+}
