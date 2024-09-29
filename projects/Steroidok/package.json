@@ -1,0 +1,13 @@
+{
+  "name": "newyeartimer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "NewYearTimer.js",
+  "type": "module",
+  "scripts": {
+    "test": "node TimerTest.js",
+    "start": "node NewYearTimer.js"
+  },
+  "author": "Ivan I. D.",
+  "license": "ISC"
+}
