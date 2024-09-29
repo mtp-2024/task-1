@@ -32,6 +32,7 @@
 | Браташ Максим Алексеевич | [Kendorex](https://github.com/Kendorex)|
 | Кожевников Артём Евгеньевич | [ArtemKozhevnikov](https://github.com/ArtemKozhevnikov)|
 | Тарасов Николай Александрович | [d1pty](https://github.com/d1pty)|
+| Иванов Иван Денисович | [Steroidok](https://github.com/steroidok)|
 <details>
 <summary>Сразу после коммита</summary>
 	
