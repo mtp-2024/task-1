@@ -33,6 +33,7 @@
 | Кожевников Артём Евгеньевич | [ArtemKozhevnikov](https://github.com/ArtemKozhevnikov)|
 | Тарасов Николай Александрович | [d1pty](https://github.com/d1pty)|
 | Иванов Иван Денисович | [Steroidok](https://github.com/steroidok)|
+| Очиров Андрей Евгеньевич | [o41rov](https://github.com/o4irov)|
 <details>
 <summary>Сразу после коммита</summary>
 	
